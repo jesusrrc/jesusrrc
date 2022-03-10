@@ -8,6 +8,15 @@ This Github page contains various projects I have made throughout the years. To 
 private repositories. Thus, several projects listed below will not appear publicly. If you would like to see one or more of these projects, please contact me 
 at jesusrrcinco@gmail.com:
 
+### Fall 2019
 1. 
-
-
+### Spring 2020
+1.
+### Fall 2020
+1.
+### Spring 2021
+1.
+### Fall 2021
+1.
+### Spring 2021
+1. 
