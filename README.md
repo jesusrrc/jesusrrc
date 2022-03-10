@@ -5,18 +5,5 @@ My name is Jesus Rafael Rijo Candelario. I am currently a computer science and m
 Although I am interested in many areas of computer science and applied mathematics, my greatest interest is on high performance computing.
 
 This Github page contains various projects I have made throughout the years. To comply with Mercer University's *Honor Code*, various projects are left under 
-private repositories. Thus, several projects listed below will not appear publicly. If you would like to see one or more of these projects, please contact me 
-at jesusrrcinco@gmail.com:
-
-### Fall 2019
-1. 
-### Spring 2020
-1.
-### Fall 2020
-1.
-### Spring 2021
-1.
-### Fall 2021
-1.
-### Spring 2021
-1. 
+private repositories. Thus, several projects will not appear publicly. If you would like to see one or more of these projects, please contact me 
+at jesusrrcinco@gmail.com.
