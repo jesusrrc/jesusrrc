@@ -1,5 +1,5 @@
 # My Coursework at Mercer University
-Link to Mercer University Catalog: https://registrar.mercer.edu/macon/catalogs.cfm
+Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/catalogs.cfm
 
 ## Computer Science
 * IST 126: Introduction to Information Science and Technology
