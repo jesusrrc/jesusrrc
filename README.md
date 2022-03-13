@@ -7,3 +7,7 @@ Although I am interested in many areas of computer science and applied mathemati
 This Github page contains various projects I have made throughout the years. To comply with Mercer University's *Honor Code*, various projects are left under 
 private repositories. Thus, these projects will not appear publicly. If you would like to see one or more of these projects, please contact me 
 at jesusrrcinco@gmail.com.
+
+### Extra Information
+
+Course work at Mercer University.
