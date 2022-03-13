@@ -2,6 +2,7 @@
 Link to Mercer University Catalog: https://registrar.mercer.edu/macon/catalogs.cfm
 
 ## Computer Science
+* IST 126: Introduction to Information Science and Technology
 * CSC 204: Programming I
 * CSC 205: Programming II
 * CSC 245: Data Structures and Algorithm Analysis
