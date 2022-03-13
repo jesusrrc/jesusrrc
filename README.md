@@ -9,5 +9,5 @@ private repositories. Thus, these projects will not appear publicly. If you woul
 at jesusrrcinco@gmail.com.
 
 ### Extra Information
-[Resume.](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_resume.pdf)
+[Resume.](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_resume.pdf) \
 [Course work at Mercer University.](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)
