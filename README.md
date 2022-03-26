@@ -10,4 +10,6 @@ at jesusrrcinco@gmail.com.
 
 ### Extra Information
 [Resume.](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_resume.pdf) \
-[Coursework at Mercer University.](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)
+[Academic Awards](https://github.com/jesusrrc/jesusrrc/blob/main/awards.md). \
+[Undegraduate Coursework](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)
+
