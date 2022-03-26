@@ -1,4 +1,4 @@
-# GitHub Page of Jesus Rafael Rijo
+# GitHub Page of Jesus Rafael Rijo Candelario
 
 My name is Jesus Rafael Rijo Candelario. I am currently a computer science and mathematics double major at Mercer University, intending to graduate after May 2023.
 
