@@ -7,4 +7,4 @@
 * Dean's List (Fall 2020 semester).
 * President's List (Spring 2021 semester).
 * Dean's List (Fall 2021 semester).
-
+* President's List (Spring 2022 semester).
