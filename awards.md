@@ -1,6 +1,8 @@
 # Academic Awards and Honors:
 ## Department Awards
 * Outstanding Junior in Mathematics Award.
+## Honors Societies
+* 2022 psilon Pi Epsilon (UPE) Inductee
 ## University-Wide Awards
 * President's List (Fall 2019 semester).
 * President's List (Spring 2020 semester).
