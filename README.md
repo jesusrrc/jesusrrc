@@ -9,6 +9,6 @@ private repositories. If you would like to see one or more of these projects, pl
 
 ### More Information
 [Resume](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_resume.pdf) \
-[Academic Awards](https://github.com/jesusrrc/jesusrrc/blob/main/awards.md) \
+[Undergraduate Academic Awards](https://github.com/jesusrrc/jesusrrc/blob/main/awards.md) \
 [Undegraduate Coursework](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)
 
