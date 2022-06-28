@@ -21,7 +21,7 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 ## Mathematics
 * MAT 191: Calculus I.
 * MAT 192: Calculus II.
-* MAT 260: Introduction to Abstract Mathematics (Intro. to Proofs).
+* MAT 260: Introduction to Abstract Mathematics (A Course on Proofs).
 * MAT 293: Multivariable Calculus.
 * MAT 326: Graph Theory and Combinatorics.
 * MAT 330: Introduction to Differential Equations.
