@@ -31,3 +31,8 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * MAT 462: Abstract Algebra II.
 * MAT 481: Real Analysis I **(currently)**.
 * MAT 499: Senior Seminar in Mathematics **(currently)**.
+
+## Others
+* PHY 161: General Physics I.
+* PHY 162: General Physics II.
+
