@@ -16,9 +16,10 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * CSC 380: Artificial Intelligence.
 * CSC 435: High Performance Scientific Computing.
 * CSC 460: Operating Systems.
-* CSC 480: Software Engineering **(currently)**.
+* CSC 480: Software Engineering I **(currently)**.
 
 ## Mathematics
+* MAT 133: Precalculus.
 * MAT 191: Calculus I.
 * MAT 192: Calculus II.
 * MAT 260: Introduction to Abstract Mathematics (A Course on Proofs).
@@ -33,6 +34,7 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * MAT 499: Senior Seminar in Mathematics **(currently)**.
 
 ## Others
+* BIO 110: General Concepts of Biology.
 * PHY 161: General Physics I.
 * PHY 162: General Physics II.
 
