@@ -6,9 +6,9 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * CSC 204: Programming I.
 * CSC 205: Programming II.
 * CSC 245: Data Structures and Algorithm Analysis.
+* CSC 310: File Structures an Advanced Algorithms **(currently)**.
 * CSC 322: Computer Organization and Assembly Language.
 * CSC 323: Computer Organization and Logic Design.
-* CSC 310: File Structures an Advanced Algorithms **(currently)**.
 * CSC 315: Introduction to Computer Graphics.
 * CSC 330: Organization of Programming Languages.
 * CSC 335: Numerical Methods.
