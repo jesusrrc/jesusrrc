@@ -1,24 +1,26 @@
 # My Coursework at Mercer University
 Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/catalogs.cfm
 
-## Computer Science
-* IST 126: Introduction to Information Science and Technology.
+## Computer Science (Core Courses)
 * CSC 204: Programming I.
 * CSC 205: Programming II.
 * CSC 245: Data Structures and Algorithm Analysis.
-* CSC 310: File Structures an Advanced Algorithms **(currently)**.
 * CSC 322: Computer Organization and Assembly Language.
 * CSC 323: Computer Organization and Logic Design.
-* CSC 315: Introduction to Computer Graphics.
 * CSC 330: Organization of Programming Languages.
-* CSC 335: Numerical Methods.
 * CSC 340: Introduction to the Theory of Computing.
+* CSC 460: Operating Systems.
+* CSC 480: Software Engineering I.
+
+## Computer Science (Electives)
+* IST 126: Introduction to Information Science and Technology.
+* CSC 310: File Structures an Advanced Algorithms **(currently)**.
+* CSC 315: Introduction to Computer Graphics.
+* CSC 335: Numerical Methods.
 * CSC 360: Theory of Data Communications.
 * CSC 380: Artificial Intelligence.
 * CSC 415: Graphics Simulation and Visualization **(currently)**.
 * CSC 435: High Performance Scientific Computing.
-* CSC 460: Operating Systems.
-* CSC 480: Software Engineering I.
 
 ## Mathematics
 * MAT 133: Precalculus.
@@ -27,7 +29,6 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * MAT 260: Introduction to Abstract Mathematics (A Course on Proofs).
 * MAT 293: Multivariable Calculus.
 * MAT 326: Graph Theory and Combinatorics.
-* MAT/STA 320: Probability and Mathematical Statistics **(currently)**.
 * MAT 330: Introduction to Differential Equations.
 * MAT 340: Linear Algebra.
 * MAT 345: Applied Mathematical Modeling.
@@ -40,5 +41,6 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 
 ## Others
 * BIO 110: General Concepts of Biology.
+* EGR 252: Probability and Statistics for Engineers **(currently)**.
 * PHY 161: General Physics I.
 * PHY 162: General Physics II.
