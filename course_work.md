@@ -10,7 +10,20 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * CSC 330: Organization of Programming Languages.
 * CSC 340: Introduction to the Theory of Computing.
 * CSC 460: Operating Systems.
-* CSC 480: Software Engineering I.
+* CSC 480: Software Engineering.
+
+## Mathematics (Core Courses)
+* MAT 133: Precalculus.
+* MAT 191: Calculus I.
+* MAT 192: Calculus II.
+* MAT 260: Introduction to Abstract Mathematics (A Course on Proofs).
+* MAT 293: Multivariable Calculus.
+* MAT 340: Linear Algebra.
+* MAT 461: Abstract Algebra I.
+* MAT 462: Abstract Algebra II.
+* MAT 481: Real Analysis I. 
+* MAT 482: Real Analysis II **(currently)**.
+* MAT 499: Senior Seminar in Mathematics.
 
 ## Computer Science (Electives)
 * IST 126: Introduction to Information Science and Technology.
@@ -22,22 +35,11 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * CSC 415: Graphics Simulation and Visualization **(currently)**.
 * CSC 435: High Performance Scientific Computing.
 
-## Mathematics
-* MAT 133: Precalculus.
-* MAT 191: Calculus I.
-* MAT 192: Calculus II.
-* MAT 260: Introduction to Abstract Mathematics (A Course on Proofs).
-* MAT 293: Multivariable Calculus.
+## Mathematics (Electives)
 * MAT 326: Graph Theory and Combinatorics.
 * MAT 330: Introduction to Differential Equations.
-* MAT 340: Linear Algebra.
 * MAT 345: Applied Mathematical Modeling.
 * MAT 401: Directed Independent Study (Subtitle: *Special Topics in Numerical Linear Algebra and Numerical Methods*) **(currently)**.
-* MAT 461: Abstract Algebra I.
-* MAT 462: Abstract Algebra II.
-* MAT 481: Real Analysis I. 
-* MAT 482: Real Analysis II **(currently)**.
-* MAT 499: Senior Seminar in Mathematics.
 
 ## Others
 * BIO 110: General Concepts of Biology.
