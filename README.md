@@ -6,6 +6,6 @@ This Github page contains various projects I have made throughout the years. To 
 private repositories. If you would like to see one or more of these projects, please contact me at rijo.candelario.jesus [at] outlook [dot] com.
 
 ### More Information
-[Resume](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_resume.pdf) \
+[Resume](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_candelario_resume.pdf) \
 [Undergraduate Academic Awards](https://github.com/jesusrrc/jesusrrc/blob/main/awards.md) \
 [Undegraduate Coursework](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)
