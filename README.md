@@ -18,21 +18,21 @@ computer networks (socket programming and TCP/IP), linear algebra, mathematical 
 Riley Plymale Senior Award in Mathematics, and Eugene Bell Senior Award in Computer Science.
 ## Work Experience
 - **Undergraduate Research Assistant | Mercer University | August 2022 -- Present**
-  - Solved incoming tickets involving a graphics/VR project with Oculus Rift and Vizard for surgical trainings.
-  - Devised a customizable highlighter to interact and identify organ models using OpenGL and GLSL.
-  - Implemented a model parser in C to convert OSGB/OSGT 3D models into STL files at runtime.
+  - Solved incoming tickets involving a graphics/VR project with **Oculus Rift** and **Vizard** for surgical trainings.
+  - Devised a customizable highlighter to interact and identify organ models using **OpenGL** and **GLSL**.
+  - Implemented a model parser in **C** to convert OSGB/OSGT 3D models into STL files at runtime.
 - **Software Engineering Intern | Columbus State University | May 2022 -- July 2022**
-  - Created a Python web crawler with Beautiful Soup and Requests to retrieve and store over 2000 IoT privacy policies.
-  - Implemented an ETL pipeline with Pandas to clean and tokenize privacy policies for a spaCy NLP framework.
-  - Used Scikit-Learn to perform readability assessment and topic extraction across all privacy policies.
+  - Created a Python web crawler with **Beautiful Soup** and **Requests** to retrieve and store over 2000 IoT privacy policies.
+  - Implemented an ETL pipeline with **Pandas** to clean and tokenize privacy policies for a **spaCy** NLP framework.
+  - Used **Scikit-Learn** to perform readability assessment and topic extraction across all privacy policies.
   - Published our final results and codebase at the 2022 REUNS, 2022 SoCon SURF, and IEEE Xplore.
 - **Undergraduate Research Assistant | Mercer University | May 2021 -- July 2021**
   - Researched and surveyed over 50 academic sources on the key applications of set theory in computer science.
-  - Implemented containers not found in the C++ STL and compared their efficiency to Boost’s implementations.
-  - Wrote a technical report outlining common uses of set theory in data structures with LaTeX.
+  - Implemented containers not found in the **C++ STL** and compared their efficiency to **Boost’s** implementations.
+  - Wrote a technical report outlining common uses of set theory in data structures with **LaTeX**.
 - **Precalculus Teaching Assistant | Mercer University | August 2020 -- May 2021**
   - Led two mandatory weekly study sessions for undergraduate precalculus students.
-  - Helped senior lecturers prepare additional course materials with LaTeX and Octave
+  - Helped senior lecturers prepare additional course materials with **LaTeX** and **Octave**.
 
 ## Skills
 - **Languages (Proficient):** C, C++, Java, Python.
