@@ -23,8 +23,8 @@ Riley Plymale Senior Award in Mathematics, and Eugene Bell Senior Award in Compu
   - Implemented a model parser in C to convert OSGB/OSGT 3D models into STL files at runtime.
 - **Software Engineering Intern | Columbus State University | May 2022 -- July 2022**
   - Created a Python web crawler with Beautiful Soup and Requests to retrieve and store over 2000 IoT privacy policies.
-  - Implemented an ETL pipeline with Pandas to clean and tokenize privacy policies for a spaCy NLP framework
-  - Used Scikit-Learn to perform readability assessment and topic extraction across all privacy policies
+  - Implemented an ETL pipeline with Pandas to clean and tokenize privacy policies for a spaCy NLP framework.
+  - Used Scikit-Learn to perform readability assessment and topic extraction across all privacy policies.
   - Published our final results and codebase at the 2022 REUNS, 2022 SoCon SURF, and IEEE Xplore.
 - **Undergraduate Research Assistant | Mercer University | May 2021 -- July 2021**
   - Researched and surveyed over 50 academic sources on the key applications of set theory in computer science.
