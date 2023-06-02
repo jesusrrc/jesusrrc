@@ -19,7 +19,7 @@ Riley Plymale Senior Award in Mathematics, and Eugene Bell Senior Award in Compu
 ## Work Experience
 - **Undergraduate Research Assistant | Mercer University | August 2022 -- Present**
   - Solved incoming tickets involving a graphics/VR project with **Oculus Rift** and **Vizard** for surgical trainings.
-  - Devised a customizable highlighter to interact and identify organ models using **OpenGL** and **GLSL**.
+  - Built a customizable highlighter to interact and identify organ models using **OpenGL** and **GLSL**.
   - Implemented a model parser in **C** to convert OSGB/OSGT 3D models into STL files at runtime.
 - **Software Engineering Intern | Columbus State University | May 2022 -- July 2022**
   - Created a Python web crawler with **Beautiful Soup** and **Requests** to retrieve and store over 2000 IoT privacy policies.
