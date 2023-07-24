@@ -4,7 +4,7 @@ My name is Jesus Rafael Rijo Candelario. I am a computer science and mathematics
 
 Feel free to contact me at https://www.linkedin.com/in/jesus-rijo-candelario/ or `rijo.candelario.jesus [at] outlook [dot] com`.
 
-# Resume (PDF Version [Here](https://github.com/jesusrrc/jesusrrc/blob/main/rijo_candelario_resume.pdf))
+# Resume
 
 ## Education
 - **College:** [Mercer University](https://www.mercer.edu/) (2019-2023)
