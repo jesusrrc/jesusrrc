@@ -6,16 +6,6 @@ Feel free to contact me at https://www.linkedin.com/in/jesus-rijo-candelario/ or
 
 # Resume
 
-## Education
-- **College:** [Mercer University](https://www.mercer.edu/) (2019-2023)
-- **Majors:** [Computer Science](https://liberalarts.mercer.edu/academic-programs/majors-and-minors/computer-science/) (B.S) 
-and [Mathematics](https://liberalarts.mercer.edu/academic-programs/majors-and-minors/mathematics/) (B.S)
-- **GPA:** 3.92/4.0
-- **Relevant coursework:** Capstone software engineering (Git CI/CD, Agile, SDLC, and REST APIs), operating systems,
-computer networks (socket programming and OSI), linear algebra, mathematical modeling, and probability/statistics with R.
-  - [Full undegraduate coursework](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)
-- **Academic awards:** : President’s List for 6 semesters, Dean’s List for 2 semesters, Outstanding Junior in Mathematics Award,
-Riley Plymale Senior Award in Mathematics, and Eugene Bell Senior Award in Computer Science.
 ## Work Experience
 - **Software Engineer Intern | Registrum Group | June 2023 -- Present**
   - [TO BE ADDED LATER ON].  
@@ -42,6 +32,25 @@ Riley Plymale Senior Award in Mathematics, and Eugene Bell Senior Award in Compu
 - **Languages (Familiar):** HTML/CSS/JavaScript, Bash, Perl, Go.
 - **Tools:** Git, Linux, CMake, GDB, PostgreSQL, PowerShell, PuTTY, Wireshark, Nmap.
 - **Frameworks/Libraries:** AWS (EC2, S3, SNS, ParallelCluster), Pandas, NumPy, SciPy, Seaborn, OpenGL, OpenMP, MPI.
+
+## Education
+- **College:** [Mercer University](https://www.mercer.edu/) (2019-2023)
+- **Majors:** [Computer Science](https://liberalarts.mercer.edu/academic-programs/majors-and-minors/computer-science/) (B.S) 
+and [Mathematics](https://liberalarts.mercer.edu/academic-programs/majors-and-minors/mathematics/) (B.S)
+- **GPA:** 3.92/4.0
+- **Relevant coursework ([full undegraduate coursework](https://github.com/jesusrrc/jesusrrc/blob/main/course_work.md)):**
+  - Capstone software engineering (Git CI/CD, Agile, SDLC, and REST APIs).
+  - Operating systems.
+  - Computer networks (socket programming and OSI).
+  - Linear algebra.
+  - Mathematical modeling.
+  - Probability/statistics with R.
+- **Academic awards:**
+  - President’s List for 6 semesters.
+  - Dean’s List for 2 semesters.
+  - Outstanding Junior in Mathematics Award.
+  - Riley Plymale Senior Award in Mathematics.
+  - Eugene Bell Senior Award in Computer Science.
 
 ## More Information
 [Undergraduate Academic Awards](https://github.com/jesusrrc/jesusrrc/blob/main/awards.md) \
