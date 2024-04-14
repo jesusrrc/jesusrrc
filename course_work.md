@@ -14,7 +14,7 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 
 ## Computer Science (Electives)
 * IST 126: Introduction to Information Science and Technology.
-* CSC 310: File Structures an Advanced Algorithms.
+* CSC 310: File Structures and Advanced Algorithms.
 * CSC 315: Introduction to Computer Graphics.
 * CSC 335: Numerical Methods.
 * CSC 360: Theory of Data Communications.
