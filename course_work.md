@@ -12,6 +12,16 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * CSC 460: Operating Systems.
 * CSC 480: Software Engineering.
 
+## Computer Science (Electives)
+* IST 126: Introduction to Information Science and Technology.
+* CSC 310: File Structures an Advanced Algorithms.
+* CSC 315: Introduction to Computer Graphics.
+* CSC 335: Numerical Methods.
+* CSC 360: Theory of Data Communications.
+* CSC 380: Artificial Intelligence.
+* CSC 415: Graphics Simulation and Visualization.
+* CSC 435: High Performance Scientific Computing.
+
 ## Mathematics (Core Courses)
 * MAT 133: Precalculus.
 * MAT 191: Calculus I.
@@ -24,16 +34,6 @@ Link to Mercer University's course catalog: https://registrar.mercer.edu/macon/c
 * MAT 481: Real Analysis I. 
 * MAT 482: Real Analysis II.
 * MAT 499: Senior Seminar in Mathematics.
-
-## Computer Science (Electives)
-* IST 126: Introduction to Information Science and Technology.
-* CSC 310: File Structures an Advanced Algorithms.
-* CSC 315: Introduction to Computer Graphics.
-* CSC 335: Numerical Methods.
-* CSC 360: Theory of Data Communications.
-* CSC 380: Artificial Intelligence.
-* CSC 415: Graphics Simulation and Visualization.
-* CSC 435: High Performance Scientific Computing.
 
 ## Mathematics (Electives)
 * MAT 326: Graph Theory and Combinatorics.
